@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! My name is Darsh Padaria and I'm a Computer Programming and Analysis Student from Seneca College. I'm looking for Full-time roles in following field:<br>Software Developer/Engineer, Web Developer, Data Analyst, Mobile Application Developer, Cloud Engineer, DevOps Engineer, Fullstack Developer. <br>
+Hi 👋! My name is Darsh Padaria and I'm a Computer Science at University of Georgia. I'm looking for Full-time roles in following field:<br>Software Developer/Engineer, Web Developer, Data Analyst, Mobile Application Developer, Cloud Engineer, DevOps Engineer, Fullstack Developer. <br>
 
 
 ## 🌐 Socials:
