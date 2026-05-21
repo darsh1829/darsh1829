@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi 👋! My name is Darsh Padaria and I'm a Computer Science at University of Georgia. I'm looking for Full-time roles in following field:<br>Software Developer/Engineer, Web Developer, Data Analyst, Mobile Application Developer, Cloud Engineer, DevOps Engineer, Fullstack Developer. <br>
+Hi 👋! My name is Darsh Padaria and I'm a Computer Science student at the University of Georgia and a Junior Developer at the UGA Health Center, where I ship accessible, large-scale web experiences used by thousands of students every day.
+
+I gravitate toward problems that mix product polish with engineering depth — accessibility, performance, and clean systems. I work across the stack with React, TypeScript, Node and AWS, and I care deeply about the small details that make software feel considered. <br>
 
 
 ## 🌐 Socials:
